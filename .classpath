@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="101-lambda-utilities-for-lists-and-maps/src/main/java"/>
+	<classpathentry kind="src" path="101-lambda-utilities-for-lists-and-maps/src/test/java"/>
+	<classpathentry kind="src" path="102-stream-utilities-for-music-model/src/main/java"/>
+	<classpathentry kind="src" path="102-stream-utilities-for-music-model/src/test/java"/>
+	<classpathentry kind="src" path="103-stream-utilities-for-text-processing/src/main/java"/>
+	<classpathentry kind="lib" path="101-lambda-utilities-for-lists-and-maps/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="102-stream-utilities-for-music-model/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="103-stream-utilities-for-text-processing/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
